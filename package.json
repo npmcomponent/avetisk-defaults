@@ -1,32 +1,12 @@
 {
-  "name": "stluafed",
+  "name": "avetisk-defaults",
+  "description": "Assigns enumerable properties of the default object(s) to the destination object for all destination properties that resolve to undefined.",
   "version": "0.0.4",
-  "description": "merge two objects keys if absents from source object",
   "keywords": [
-    "config",
-    "defaults"
+    "extend object",
+    "defaults",
+    "default values"
   ],
-  "license": "MIT",
-  "author": "Avétis KAZARIAN",
-  "contributors": "Avétis KAZARIAN",
-  "homepage": "https://github.com/avetisk/defaults",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/avetisk/defaults.git"
-  },
-  "bugs": {
-    "url": "https://github.com/avetisk/defaults.git"
-  },
-  "readmeFilename": "README.md",
-  "scripts": {
-    "test": "make test"
-  },
-  "engines": {
-    "node": "~0.10.22"
-  },
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "jshint": "*"
-  }
+  "license": "MIT"
 }
